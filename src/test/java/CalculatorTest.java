@@ -16,4 +16,10 @@ public class CalculatorTest {
         Assert.assertEquals(2,result);
         System.out.println(result);
     }
+    @Test
+    public void Addition(){
+        int result = calculator.addition(12,6);
+        Assert.assertEquals(18,result);
+        System.out.println(result);
+    }
 }
