@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-16T19:03:34" hostname="sonalibnkarsMBP" time="0.002">
+<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-17T09:38:51" hostname="sonalibankars-MacBook-Pro.local" time="0.002">
   <properties/>
-  <testcase name="Division" classname="CalculatorTest" time="0.002"/>
-  <system-out><![CDATA[2
+  <testcase name="Substraction" classname="CalculatorTest" time="0.002"/>
+  <system-out><![CDATA[6
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
