@@ -23,7 +23,7 @@ public class CalculatorTest {
         System.out.println(result);
     }
     @Test
-    public void Substraction(){
+    public  void Substraction(){
         int result = calculator.substraction(12,6);
         Assert.assertEquals(6,result);
         System.out.println(result);
